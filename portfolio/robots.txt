@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://muhammadsohaib.com/sitemap.xml
+Sitemap: https://muhammad-sohaib-portfolio.netlify.app/sitemap.xml
