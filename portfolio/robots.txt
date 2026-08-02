@@ -1,0 +1,5 @@
+# robots.txt for https://muhammadsohaib.com/
+User-agent: *
+Allow: /
+
+Sitemap: https://muhammadsohaib.com/sitemap.xml
